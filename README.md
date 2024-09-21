@@ -1,8 +1,8 @@
+<img align="right" width="300" src="docs/logo.svg">
+
 # vgt - Visualise Go Test
 
 `vgt` is a tool for visualising Go test results in a browser.
-
-[//]: # ([todo - logo])
 
 It's helpful with understanding parallelism of tests and identifying slow tests.
 More information can be found in the [TODO] blog post.
