@@ -1,6 +1,6 @@
-<img align="right" width="300" src="docs/logo.svg">
-
 # vgt - Visualise Go Test
+
+<img align="right" width="300" src="docs/logo.svg">
 
 `vgt` is a tool for visualising Go test results in a browser.
 
