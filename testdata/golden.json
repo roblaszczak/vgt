@@ -1,0 +1,4050 @@
+{
+  "TestPauses": {
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:02:12.750185+02:00",
+      "End": "2024-09-18T21:02:12.750546+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.750049+02:00",
+      "End": "2024-09-18T21:02:25.941764+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:02:12.75009+02:00",
+      "End": "2024-09-18T21:02:12.750712+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:02:12.750393+02:00",
+      "End": "2024-09-18T21:02:12.750496+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:02:12.750195+02:00",
+      "End": "2024-09-18T21:02:12.750486+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:02:12.750174+02:00",
+      "End": "2024-09-18T21:02:12.750595+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:02:12.750246+02:00",
+      "End": "2024-09-18T21:02:12.750455+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:02:12.750288+02:00",
+      "End": "2024-09-18T21:02:37.137826+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestNoAck"
+      },
+      "Start": "2024-09-18T21:02:12.750139+02:00",
+      "End": "2024-09-18T21:02:12.750431+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.750024+02:00",
+      "End": "2024-09-18T21:02:12.750399+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:02:12.750211+02:00",
+      "End": "2024-09-18T21:02:12.75042+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:02:12.750225+02:00",
+      "End": "2024-09-18T21:02:12.750853+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:02:12.750117+02:00",
+      "End": "2024-09-18T21:02:16.847077+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:02:12.750256+02:00",
+      "End": "2024-09-18T21:02:12.750503+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestTopic"
+      },
+      "Start": "2024-09-18T21:02:12.750236+02:00",
+      "End": "2024-09-18T21:02:12.750795+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:02:12.985468+02:00",
+      "End": "2024-09-18T21:02:12.985942+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.985384+02:00",
+      "End": "2024-09-18T21:02:12.986191+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:02:12.985406+02:00",
+      "End": "2024-09-18T21:02:12.986051+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:02:12.985616+02:00",
+      "End": "2024-09-18T21:02:12.98584+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:02:12.985488+02:00",
+      "End": "2024-09-18T21:02:12.986547+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:02:12.985458+02:00",
+      "End": "2024-09-18T21:02:15.218788+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:02:12.985538+02:00",
+      "End": "2024-09-18T21:02:12.986416+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:02:12.985566+02:00",
+      "End": "2024-09-18T21:02:15.681472+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestNoAck"
+      },
+      "Start": "2024-09-18T21:02:12.985438+02:00",
+      "End": "2024-09-18T21:02:15.681538+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.985301+02:00",
+      "End": "2024-09-18T21:02:12.985619+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:02:12.985505+02:00",
+      "End": "2024-09-18T21:02:12.985635+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:02:12.985515+02:00",
+      "End": "2024-09-18T21:02:12.986003+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:02:12.985418+02:00",
+      "End": "2024-09-18T21:02:12.986069+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:02:12.985555+02:00",
+      "End": "2024-09-18T21:02:12.985679+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestTopic"
+      },
+      "Start": "2024-09-18T21:02:12.985527+02:00",
+      "End": "2024-09-18T21:02:12.985983+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0"
+      },
+      "Start": "2024-09-18T21:05:19.331869+02:00",
+      "End": "2024-09-18T21:05:19.332045+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.337338+02:00",
+      "End": "2024-09-18T21:11:46.7274+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.336282+02:00",
+      "End": "2024-09-18T21:11:48.073203+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.33645+02:00",
+      "End": "2024-09-18T21:11:46.727525+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332076+02:00",
+      "End": "2024-09-18T21:11:38.810356+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.335429+02:00",
+      "End": "2024-09-18T21:11:48.54003+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.336305+02:00",
+      "End": "2024-09-18T21:11:46.727578+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.336265+02:00",
+      "End": "2024-09-18T21:11:48.301564+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/1": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/1"
+      },
+      "Start": "2024-09-18T21:05:19.331886+02:00",
+      "End": "2024-09-18T21:05:19.332643+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2"
+      },
+      "Start": "2024-09-18T21:05:19.331901+02:00",
+      "End": "2024-09-18T21:05:19.332258+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.333082+02:00",
+      "End": "2024-09-18T21:10:10.736035+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332713+02:00",
+      "End": "2024-09-18T21:10:25.090685+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:19.332748+02:00",
+      "End": "2024-09-18T21:10:12.778122+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.337026+02:00",
+      "End": "2024-09-18T21:10:31.980669+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.333136+02:00",
+      "End": "2024-09-18T21:10:02.750691+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.332814+02:00",
+      "End": "2024-09-18T21:10:11.973485+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.335179+02:00",
+      "End": "2024-09-18T21:10:32.125987+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.335327+02:00",
+      "End": "2024-09-18T21:10:31.980836+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:19.332786+02:00",
+      "End": "2024-09-18T21:10:02.750599+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332662+02:00",
+      "End": "2024-09-18T21:10:00.77706+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.334421+02:00",
+      "End": "2024-09-18T21:10:02.750499+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.334452+02:00",
+      "End": "2024-09-18T21:10:32.251423+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:19.332764+02:00",
+      "End": "2024-09-18T21:10:24.655467+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.335242+02:00",
+      "End": "2024-09-18T21:10:30.861257+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.334475+02:00",
+      "End": "2024-09-18T21:10:31.981012+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3"
+      },
+      "Start": "2024-09-18T21:05:19.331915+02:00",
+      "End": "2024-09-18T21:05:19.332218+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.333402+02:00",
+      "End": "2024-09-18T21:08:28.487478+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332965+02:00",
+      "End": "2024-09-18T21:09:50.022922+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:19.333017+02:00",
+      "End": "2024-09-18T21:09:41.390996+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.336484+02:00",
+      "End": "2024-09-18T21:08:08.837017+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.333457+02:00",
+      "End": "2024-09-18T21:08:14.095328+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.333333+02:00",
+      "End": "2024-09-18T21:08:30.070272+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334388+02:00",
+      "End": "2024-09-18T21:08:09.567957+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.334971+02:00",
+      "End": "2024-09-18T21:08:08.837283+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:19.333245+02:00",
+      "End": "2024-09-18T21:08:14.094922+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332334+02:00",
+      "End": "2024-09-18T21:08:04.154334+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.334276+02:00",
+      "End": "2024-09-18T21:08:08.83686+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.334338+02:00",
+      "End": "2024-09-18T21:08:09.795076+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:19.333032+02:00",
+      "End": "2024-09-18T21:09:49.675647+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334775+02:00",
+      "End": "2024-09-18T21:08:08.837443+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.334363+02:00",
+      "End": "2024-09-18T21:08:09.686171+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/4": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/4"
+      },
+      "Start": "2024-09-18T21:05:19.33193+02:00",
+      "End": "2024-09-18T21:05:19.332282+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5"
+      },
+      "Start": "2024-09-18T21:05:19.331964+02:00",
+      "End": "2024-09-18T21:05:19.332089+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.334578+02:00",
+      "End": "2024-09-18T21:05:19.337086+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332498+02:00",
+      "End": "2024-09-18T21:05:32.10915+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:19.332903+02:00",
+      "End": "2024-09-18T21:05:25.072008+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.335133+02:00",
+      "End": "2024-09-18T21:05:19.337436+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.334592+02:00",
+      "End": "2024-09-18T21:05:19.336487+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.334563+02:00",
+      "End": "2024-09-18T21:05:19.336172+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334808+02:00",
+      "End": "2024-09-18T21:05:19.338024+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.334839+02:00",
+      "End": "2024-09-18T21:05:19.337693+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:19.334346+02:00",
+      "End": "2024-09-18T21:05:20.304838+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332295+02:00",
+      "End": "2024-09-18T21:05:19.335137+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.334607+02:00",
+      "End": "2024-09-18T21:05:19.33643+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.33463+02:00",
+      "End": "2024-09-18T21:05:19.335184+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:19.334096+02:00",
+      "End": "2024-09-18T21:05:20.199747+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334823+02:00",
+      "End": "2024-09-18T21:05:19.337851+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.334783+02:00",
+      "End": "2024-09-18T21:05:19.338014+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6"
+      },
+      "Start": "2024-09-18T21:05:19.331987+02:00",
+      "End": "2024-09-18T21:05:19.332154+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.33416+02:00",
+      "End": "2024-09-18T21:10:55.211017+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332455+02:00",
+      "End": "2024-09-18T21:11:20.489444+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:19.332581+02:00",
+      "End": "2024-09-18T21:11:09.914007+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.337323+02:00",
+      "End": "2024-09-18T21:11:37.913191+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.334199+02:00",
+      "End": "2024-09-18T21:10:49.106517+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.333274+02:00",
+      "End": "2024-09-18T21:10:58.895873+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334963+02:00",
+      "End": "2024-09-18T21:11:38.605225+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.335386+02:00",
+      "End": "2024-09-18T21:11:37.913336+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:19.333208+02:00",
+      "End": "2024-09-18T21:11:06.893165+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332174+02:00",
+      "End": "2024-09-18T21:10:41.074447+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.334293+02:00",
+      "End": "2024-09-18T21:10:49.105935+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.334313+02:00",
+      "End": "2024-09-18T21:11:38.676832+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:19.332887+02:00",
+      "End": "2024-09-18T21:11:06.893564+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.335361+02:00",
+      "End": "2024-09-18T21:11:34.26828+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.33438+02:00",
+      "End": "2024-09-18T21:11:37.91608+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7"
+      },
+      "Start": "2024-09-18T21:05:19.332008+02:00",
+      "End": "2024-09-18T21:05:19.332053+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.333421+02:00",
+      "End": "2024-09-18T21:06:20.200192+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332447+02:00",
+      "End": "2024-09-18T21:06:32.347931+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:19.332573+02:00",
+      "End": "2024-09-18T21:06:45.238577+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.336146+02:00",
+      "End": "2024-09-18T21:06:57.328966+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.334172+02:00",
+      "End": "2024-09-18T21:06:17.812203+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.333253+02:00",
+      "End": "2024-09-18T21:06:24.034154+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334952+02:00",
+      "End": "2024-09-18T21:06:58.810206+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.335345+02:00",
+      "End": "2024-09-18T21:06:57.329126+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:19.333215+02:00",
+      "End": "2024-09-18T21:06:17.812127+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332109+02:00",
+      "End": "2024-09-18T21:06:12.536461+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.334208+02:00",
+      "End": "2024-09-18T21:06:17.81206+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.334444+02:00",
+      "End": "2024-09-18T21:06:59.637138+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:19.332866+02:00",
+      "End": "2024-09-18T21:06:34.520647+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.335273+02:00",
+      "End": "2024-09-18T21:06:53.995267+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.334546+02:00",
+      "End": "2024-09-18T21:06:57.329305+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8"
+      },
+      "Start": "2024-09-18T21:05:19.332025+02:00",
+      "End": "2024-09-18T21:05:19.332113+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.333143+02:00",
+      "End": "2024-09-18T21:07:14.745688+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332342+02:00",
+      "End": "2024-09-18T21:07:47.833011+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:19.332558+02:00",
+      "End": "2024-09-18T21:07:22.959371+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.336249+02:00",
+      "End": "2024-09-18T21:07:05.474726+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.333304+02:00",
+      "End": "2024-09-18T21:07:14.661921+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.332919+02:00",
+      "End": "2024-09-18T21:07:21.844535+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334729+02:00",
+      "End": "2024-09-18T21:07:12.739878+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.33556+02:00",
+      "End": "2024-09-18T21:07:05.474975+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:19.332654+02:00",
+      "End": "2024-09-18T21:07:50.171803+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332318+02:00",
+      "End": "2024-09-18T21:07:01.560872+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.334043+02:00",
+      "End": "2024-09-18T21:07:14.661869+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.334078+02:00",
+      "End": "2024-09-18T21:07:13.688199+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:19.332624+02:00",
+      "End": "2024-09-18T21:07:50.171856+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.334749+02:00",
+      "End": "2024-09-18T21:07:05.475145+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.334642+02:00",
+      "End": "2024-09-18T21:07:13.60923+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9"
+      },
+      "Start": "2024-09-18T21:05:19.332041+02:00",
+      "End": "2024-09-18T21:05:19.332122+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.332857+02:00",
+      "End": "2024-09-18T21:05:19.338187+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332382+02:00",
+      "End": "2024-09-18T21:06:08.472015+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:19.332425+02:00",
+      "End": "2024-09-18T21:05:56.794949+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.335163+02:00",
+      "End": "2024-09-18T21:05:32.109115+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.333057+02:00",
+      "End": "2024-09-18T21:05:21.389585+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.332632+02:00",
+      "End": "2024-09-18T21:05:45.137816+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.333159+02:00",
+      "End": "2024-09-18T21:05:19.337342+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.333231+02:00",
+      "End": "2024-09-18T21:05:32.109055+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:19.332565+02:00",
+      "End": "2024-09-18T21:05:46.410807+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.332142+02:00",
+      "End": "2024-09-18T21:05:40.334965+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.333089+02:00",
+      "End": "2024-09-18T21:05:21.389383+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:05:19.333104+02:00",
+      "End": "2024-09-18T21:05:20.312728+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:19.332506+02:00",
+      "End": "2024-09-18T21:05:46.410869+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.333175+02:00",
+      "End": "2024-09-18T21:05:32.951209+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.333127+02:00",
+      "End": "2024-09-18T21:05:20.304984+02:00",
+      "Passed": false
+    }
+  },
+  "TestRuns": {
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPubSub_arn_topic_resolver": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPubSub_arn_topic_resolver"
+      },
+      "Start": "2024-09-18T21:05:19.285957+02:00",
+      "End": "2024-09-18T21:05:45.673233+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.749884+02:00",
+      "End": "2024-09-18T21:05:19.28594+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:02:12.750546+02:00",
+      "End": "2024-09-18T21:03:36.3569+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentClose/ae575b44-a837-4fda-bc99-0789635f2c5b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentClose/ae575b44-a837-4fda-bc99-0789635f2c5b"
+      },
+      "Start": "2024-09-18T21:02:12.750584+02:00",
+      "End": "2024-09-18T21:03:31.059192+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:02:25.941764+02:00",
+      "End": "2024-09-18T21:04:57.641665+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentSubscribe/41fdc961-a923-4dcf-8a6b-ce3c6b66fc48": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentSubscribe/41fdc961-a923-4dcf-8a6b-ce3c6b66fc48"
+      },
+      "Start": "2024-09-18T21:02:25.941781+02:00",
+      "End": "2024-09-18T21:04:11.720144+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:02:12.750712+02:00",
+      "End": "2024-09-18T21:04:03.85765+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConcurrentSubscribeMultipleTopics/ef6bfb65-1499-45d0-b704-fa673af02953": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConcurrentSubscribeMultipleTopics/ef6bfb65-1499-45d0-b704-fa673af02953"
+      },
+      "Start": "2024-09-18T21:02:12.750719+02:00",
+      "End": "2024-09-18T21:04:00.023917+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:02:12.750496+02:00",
+      "End": "2024-09-18T21:03:56.73246+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestConsumerGroups/bffa08d8-a67d-446c-85c5-d2ca567b4a98": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestConsumerGroups/bffa08d8-a67d-446c-85c5-d2ca567b4a98"
+      },
+      "Start": "2024-09-18T21:02:12.750517+02:00",
+      "End": "2024-09-18T21:03:48.428869+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:02:12.750486+02:00",
+      "End": "2024-09-18T21:03:48.428845+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestContinueAfterErrors/d8a0bb3c-da12-48c3-83c8-d4b79c8731a0": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestContinueAfterErrors/d8a0bb3c-da12-48c3-83c8-d4b79c8731a0"
+      },
+      "Start": "2024-09-18T21:02:12.750534+02:00",
+      "End": "2024-09-18T21:03:36.356939+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:02:12.750595+02:00",
+      "End": "2024-09-18T21:05:19.285866+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestContinueAfterSubscribeClose/dcb94e6b-c337-431b-816e-953f010c91dc": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestContinueAfterSubscribeClose/dcb94e6b-c337-431b-816e-953f010c91dc"
+      },
+      "Start": "2024-09-18T21:02:12.750615+02:00",
+      "End": "2024-09-18T21:04:57.641711+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:02:12.750455+02:00",
+      "End": "2024-09-18T21:02:16.847073+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestMessageCtx/0ef2aed0-5564-4cb4-ab28-a8ef2f9b485d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestMessageCtx/0ef2aed0-5564-4cb4-ab28-a8ef2f9b485d"
+      },
+      "Start": "2024-09-18T21:02:12.750462+02:00",
+      "End": "2024-09-18T21:02:16.847058+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:02:37.137826+02:00",
+      "End": "2024-09-18T21:03:31.059173+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestNewSubscriberReceivesOldMessages/98a45a3a-9c51-418e-ace3-fa5e39809ef1": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestNewSubscriberReceivesOldMessages/98a45a3a-9c51-418e-ace3-fa5e39809ef1"
+      },
+      "Start": "2024-09-18T21:02:37.137931+02:00",
+      "End": "2024-09-18T21:02:37.137958+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestNoAck"
+      },
+      "Start": "2024-09-18T21:02:12.750431+02:00",
+      "End": "2024-09-18T21:02:12.750483+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestNoAck/53bdc1b1-4afd-421b-a56c-130e3ce90993": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestNoAck/53bdc1b1-4afd-421b-a56c-130e3ce90993"
+      },
+      "Start": "2024-09-18T21:02:12.750446+02:00",
+      "End": "2024-09-18T21:02:12.750476+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.750399+02:00",
+      "End": "2024-09-18T21:04:00.023874+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublishSubscribe/a52a6f95-43fb-425d-befd-b0bedb14c788": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublishSubscribe/a52a6f95-43fb-425d-befd-b0bedb14c788"
+      },
+      "Start": "2024-09-18T21:02:12.750405+02:00",
+      "End": "2024-09-18T21:03:56.732493+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:02:12.75042+02:00",
+      "End": "2024-09-18T21:02:12.750708+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublishSubscribeInOrder/eb766efc-50d4-4b11-9d4d-bca2a2cedbde": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublishSubscribeInOrder/eb766efc-50d4-4b11-9d4d-bca2a2cedbde"
+      },
+      "Start": "2024-09-18T21:02:12.750426+02:00",
+      "End": "2024-09-18T21:02:12.750699+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:02:12.750853+02:00",
+      "End": "2024-09-18T21:05:19.285926+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublisherClose/e1e81453-e4a1-4bf8-acd8-839f1cb81a07": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestPublisherClose/e1e81453-e4a1-4bf8-acd8-839f1cb81a07"
+      },
+      "Start": "2024-09-18T21:02:12.750958+02:00",
+      "End": "2024-09-18T21:05:19.2859+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestReconnect"
+      },
+      "Start": "2024-09-18T21:02:12.750291+02:00",
+      "End": "2024-09-18T21:02:12.750376+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestReconnect/7b4a098f-bba9-48a5-a87c-f0b2c4abed7d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestReconnect/7b4a098f-bba9-48a5-a87c-f0b2c4abed7d"
+      },
+      "Start": "2024-09-18T21:02:12.750339+02:00",
+      "End": "2024-09-18T21:02:12.750366+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:02:16.847077+02:00",
+      "End": "2024-09-18T21:04:11.719926+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestResendOnError/b569f402-3e17-4c79-b4ed-f1c229734d53": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestResendOnError/b569f402-3e17-4c79-b4ed-f1c229734d53"
+      },
+      "Start": "2024-09-18T21:02:16.847086+02:00",
+      "End": "2024-09-18T21:04:03.857694+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:02:12.750503+02:00",
+      "End": "2024-09-18T21:02:37.137822+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestSubscribeCtx/8c97affd-cb2f-47be-b310-18314190e274": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestSubscribeCtx/8c97affd-cb2f-47be-b310-18314190e274"
+      },
+      "Start": "2024-09-18T21:02:12.750522+02:00",
+      "End": "2024-09-18T21:02:37.137808+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestTopic"
+      },
+      "Start": "2024-09-18T21:02:12.750795+02:00",
+      "End": "2024-09-18T21:02:25.941758+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestTopic/6bea0421-9872-42a8-a9c6-6936e0be0fee": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublishSubscribe/TestTopic/6bea0421-9872-42a8-a9c6-6936e0be0fee"
+      },
+      "Start": "2024-09-18T21:02:12.750905+02:00",
+      "End": "2024-09-18T21:02:25.941731+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublisher_CreateTopic_is_idempotent": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestPublisher_CreateTopic_is_idempotent"
+      },
+      "Start": "2024-09-18T21:05:45.673247+02:00",
+      "End": "2024-09-18T21:05:46.228431+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestSubscriber_SubscribeInitialize_is_idempotent": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sns",
+        "TestName": "TestSubscriber_SubscribeInitialize_is_idempotent"
+      },
+      "Start": "2024-09-18T21:05:46.228443+02:00",
+      "End": "2024-09-18T21:05:47.285344+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestMarshaler": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestMarshaler"
+      },
+      "Start": "2024-09-18T21:02:12.98497+02:00",
+      "End": "2024-09-18T21:02:12.984983+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestMetadaConverter": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestMetadaConverter"
+      },
+      "Start": "2024-09-18T21:02:12.98485+02:00",
+      "End": "2024-09-18T21:02:12.984951+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub"
+      },
+      "Start": "2024-09-18T21:02:12.985235+02:00",
+      "End": "2024-09-18T21:05:19.331564+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:02:12.985942+02:00",
+      "End": "2024-09-18T21:03:13.563037+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentClose/044a4dbf-a5c8-43ba-a680-0e57a13afdf2": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentClose/044a4dbf-a5c8-43ba-a680-0e57a13afdf2"
+      },
+      "Start": "2024-09-18T21:02:12.986553+02:00",
+      "End": "2024-09-18T21:02:55.388839+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.986191+02:00",
+      "End": "2024-09-18T21:03:34.763223+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentSubscribe/7a2eb9e3-7a0a-44ce-9dcc-9132808a7a8e": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentSubscribe/7a2eb9e3-7a0a-44ce-9dcc-9132808a7a8e"
+      },
+      "Start": "2024-09-18T21:02:12.986253+02:00",
+      "End": "2024-09-18T21:03:27.945592+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:02:12.986051+02:00",
+      "End": "2024-09-18T21:03:27.945503+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConcurrentSubscribeMultipleTopics/41642e01-a224-435d-98d7-393bef8d54ee": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConcurrentSubscribeMultipleTopics/41642e01-a224-435d-98d7-393bef8d54ee"
+      },
+      "Start": "2024-09-18T21:02:12.986059+02:00",
+      "End": "2024-09-18T21:03:16.797075+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:02:12.98584+02:00",
+      "End": "2024-09-18T21:02:12.986544+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestConsumerGroups/8ffeb389-3480-40fb-a151-ed27d6c11293": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestConsumerGroups/8ffeb389-3480-40fb-a151-ed27d6c11293"
+      },
+      "Start": "2024-09-18T21:02:12.985869+02:00",
+      "End": "2024-09-18T21:02:12.986533+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:02:12.986547+02:00",
+      "End": "2024-09-18T21:04:57.616124+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestContinueAfterErrors/bb086438-326f-4fda-b1c4-d52c05d7789d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestContinueAfterErrors/bb086438-326f-4fda-b1c4-d52c05d7789d"
+      },
+      "Start": "2024-09-18T21:02:12.986565+02:00",
+      "End": "2024-09-18T21:03:34.763263+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:02:15.218788+02:00",
+      "End": "2024-09-18T21:05:19.331465+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestContinueAfterSubscribeClose/bd9ab63c-9d85-4159-a0e8-d3a317055cc2": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestContinueAfterSubscribeClose/bd9ab63c-9d85-4159-a0e8-d3a317055cc2"
+      },
+      "Start": "2024-09-18T21:02:15.21881+02:00",
+      "End": "2024-09-18T21:04:57.616183+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:02:12.986416+02:00",
+      "End": "2024-09-18T21:02:15.218764+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestMessageCtx/ea2dc2e6-f773-4834-b9ca-ccf210f8ad63": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestMessageCtx/ea2dc2e6-f773-4834-b9ca-ccf210f8ad63"
+      },
+      "Start": "2024-09-18T21:02:12.986467+02:00",
+      "End": "2024-09-18T21:02:15.218469+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:02:15.681472+02:00",
+      "End": "2024-09-18T21:02:15.681534+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestNewSubscriberReceivesOldMessages/872d31e3-d0f3-4e5a-9a7a-7a0d5f22dbc6": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestNewSubscriberReceivesOldMessages/872d31e3-d0f3-4e5a-9a7a-7a0d5f22dbc6"
+      },
+      "Start": "2024-09-18T21:02:15.681499+02:00",
+      "End": "2024-09-18T21:02:15.681521+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestNoAck"
+      },
+      "Start": "2024-09-18T21:02:15.681538+02:00",
+      "End": "2024-09-18T21:02:30.864881+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestNoAck/4254daf4-ee1a-425c-b421-e74bb2830627": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestNoAck/4254daf4-ee1a-425c-b421-e74bb2830627"
+      },
+      "Start": "2024-09-18T21:02:15.681543+02:00",
+      "End": "2024-09-18T21:02:15.681556+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:02:12.985619+02:00",
+      "End": "2024-09-18T21:03:14.529385+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublishSubscribe/c558727b-e410-4b97-b8ac-07c8a7e2a27a": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublishSubscribe/c558727b-e410-4b97-b8ac-07c8a7e2a27a"
+      },
+      "Start": "2024-09-18T21:02:12.985629+02:00",
+      "End": "2024-09-18T21:03:13.56308+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:02:12.985635+02:00",
+      "End": "2024-09-18T21:02:12.985866+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublishSubscribeInOrder/5ad21fad-2ee8-4d94-95fc-40ead2e72e94": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublishSubscribeInOrder/5ad21fad-2ee8-4d94-95fc-40ead2e72e94"
+      },
+      "Start": "2024-09-18T21:02:12.985658+02:00",
+      "End": "2024-09-18T21:02:12.985856+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublisherClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublisherClose"
+      },
+      "Start": "2024-09-18T21:02:12.986003+02:00",
+      "End": "2024-09-18T21:05:19.331554+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublisherClose/aecafbb1-25ef-4f92-9355-3e20d3ffbae5": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestPublisherClose/aecafbb1-25ef-4f92-9355-3e20d3ffbae5"
+      },
+      "Start": "2024-09-18T21:02:12.986031+02:00",
+      "End": "2024-09-18T21:05:19.331534+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestReconnect"
+      },
+      "Start": "2024-09-18T21:02:12.985572+02:00",
+      "End": "2024-09-18T21:02:12.985604+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestReconnect/265a3c40-cc30-4594-978a-2cf38d82e78c": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestReconnect/265a3c40-cc30-4594-978a-2cf38d82e78c"
+      },
+      "Start": "2024-09-18T21:02:12.985578+02:00",
+      "End": "2024-09-18T21:02:12.985598+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:02:12.986069+02:00",
+      "End": "2024-09-18T21:03:16.797048+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestResendOnError/715c631d-53f5-41d7-b7f6-8ecb551c699e": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestResendOnError/715c631d-53f5-41d7-b7f6-8ecb551c699e"
+      },
+      "Start": "2024-09-18T21:02:12.986085+02:00",
+      "End": "2024-09-18T21:03:14.529403+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:02:12.985679+02:00",
+      "End": "2024-09-18T21:02:55.388789+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestSubscribeCtx/56d99a88-d334-4a56-b806-5f5367aaabe5": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestSubscribeCtx/56d99a88-d334-4a56-b806-5f5367aaabe5"
+      },
+      "Start": "2024-09-18T21:02:12.985809+02:00",
+      "End": "2024-09-18T21:02:30.864899+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestTopic"
+      },
+      "Start": "2024-09-18T21:02:12.985983+02:00",
+      "End": "2024-09-18T21:02:15.681464+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestTopic/dedfc437-a463-412d-88d8-7ed7e392605b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub/TestTopic/dedfc437-a463-412d-88d8-7ed7e392605b"
+      },
+      "Start": "2024-09-18T21:02:12.986655+02:00",
+      "End": "2024-09-18T21:02:15.681442+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:11:46.7274+02:00",
+      "End": "2024-09-18T21:11:46.72752+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestConsumerGroups/072b3093-3bd2-45a6-a26a-c5c673275f9b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestConsumerGroups/072b3093-3bd2-45a6-a26a-c5c673275f9b"
+      },
+      "Start": "2024-09-18T21:11:46.727417+02:00",
+      "End": "2024-09-18T21:11:46.727507+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:11:48.073203+02:00",
+      "End": "2024-09-18T21:11:48.301525+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestMessageCtx/f8275df4-2c51-46db-b317-3e459d7123d3": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestMessageCtx/f8275df4-2c51-46db-b317-3e459d7123d3"
+      },
+      "Start": "2024-09-18T21:11:48.073232+02:00",
+      "End": "2024-09-18T21:11:48.301488+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:11:46.727525+02:00",
+      "End": "2024-09-18T21:11:46.727573+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestNewSubscriberReceivesOldMessages/f5feac3e-6109-45bf-9eb5-befad83103e2": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestNewSubscriberReceivesOldMessages/f5feac3e-6109-45bf-9eb5-befad83103e2"
+      },
+      "Start": "2024-09-18T21:11:46.727533+02:00",
+      "End": "2024-09-18T21:11:46.727564+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:11:38.810356+02:00",
+      "End": "2024-09-18T21:11:46.727392+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestPublishSubscribe/58d37687-d30d-4442-a686-b87029d32978": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestPublishSubscribe/58d37687-d30d-4442-a686-b87029d32978"
+      },
+      "Start": "2024-09-18T21:11:38.810367+02:00",
+      "End": "2024-09-18T21:11:46.727363+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.337114+02:00",
+      "End": "2024-09-18T21:05:19.337308+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestReconnect/cf14f77b-0a14-434a-bf1b-d95d8598d40f": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestReconnect/cf14f77b-0a14-434a-bf1b-d95d8598d40f"
+      },
+      "Start": "2024-09-18T21:05:19.337284+02:00",
+      "End": "2024-09-18T21:05:19.3373+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:11:46.727578+02:00",
+      "End": "2024-09-18T21:11:48.073186+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestSubscribeCtx/b7b06d43-3ceb-4b4b-a50e-ec3497a2509b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestSubscribeCtx/b7b06d43-3ceb-4b4b-a50e-ec3497a2509b"
+      },
+      "Start": "2024-09-18T21:11:46.727587+02:00",
+      "End": "2024-09-18T21:11:48.073141+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestTopic"
+      },
+      "Start": "2024-09-18T21:11:48.301564+02:00",
+      "End": "2024-09-18T21:11:48.54001+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestTopic/6975b09d-5c7b-41e2-a5c1-9b736153fdb5": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/0/TestTopic/6975b09d-5c7b-41e2-a5c1-9b736153fdb5"
+      },
+      "Start": "2024-09-18T21:11:48.301605+02:00",
+      "End": "2024-09-18T21:11:48.539962+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/1/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/1/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.337467+02:00",
+      "End": "2024-09-18T21:05:19.337655+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/1/TestReconnect/fe5d8f25-07b0-4990-9d8e-4731ace69d4e": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/1/TestReconnect/fe5d8f25-07b0-4990-9d8e-4731ace69d4e"
+      },
+      "Start": "2024-09-18T21:05:19.337484+02:00",
+      "End": "2024-09-18T21:05:19.337645+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:10:10.736035+02:00",
+      "End": "2024-09-18T21:10:11.973471+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentClose/22524045-c658-4053-be46-e3d8faa7fb0d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentClose/22524045-c658-4053-be46-e3d8faa7fb0d"
+      },
+      "Start": "2024-09-18T21:10:10.73606+02:00",
+      "End": "2024-09-18T21:10:11.973423+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:10:25.090685+02:00",
+      "End": "2024-09-18T21:10:49.105772+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentSubscribe/d523c0f2-21b2-4f89-9451-c859099a1dbf": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentSubscribe/d523c0f2-21b2-4f89-9451-c859099a1dbf"
+      },
+      "Start": "2024-09-18T21:10:25.090766+02:00",
+      "End": "2024-09-18T21:10:49.105089+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:10:12.778122+02:00",
+      "End": "2024-09-18T21:10:25.090671+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentSubscribeMultipleTopics/c25266af-0322-4230-a989-f39fd1b29f22": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConcurrentSubscribeMultipleTopics/c25266af-0322-4230-a989-f39fd1b29f22"
+      },
+      "Start": "2024-09-18T21:10:12.778174+02:00",
+      "End": "2024-09-18T21:10:25.090626+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:10:31.980669+02:00",
+      "End": "2024-09-18T21:10:31.980823+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConsumerGroups/8ae7b831-ca3a-40b5-8531-aa9c7818ed15": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestConsumerGroups/8ae7b831-ca3a-40b5-8531-aa9c7818ed15"
+      },
+      "Start": "2024-09-18T21:10:31.980703+02:00",
+      "End": "2024-09-18T21:10:31.980793+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:10:02.750691+02:00",
+      "End": "2024-09-18T21:10:24.655438+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestContinueAfterErrors/e9cbdd8f-8185-4730-9e28-c304e737ad12": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestContinueAfterErrors/e9cbdd8f-8185-4730-9e28-c304e737ad12"
+      },
+      "Start": "2024-09-18T21:10:02.750701+02:00",
+      "End": "2024-09-18T21:10:24.655352+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:10:32.125987+02:00",
+      "End": "2024-09-18T21:10:32.251409+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestMessageCtx/a0598bdb-4ff5-4f41-af01-b838bd381cc9": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestMessageCtx/a0598bdb-4ff5-4f41-af01-b838bd381cc9"
+      },
+      "Start": "2024-09-18T21:10:32.126007+02:00",
+      "End": "2024-09-18T21:10:32.251372+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:10:31.980836+02:00",
+      "End": "2024-09-18T21:10:31.980973+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestNewSubscriberReceivesOldMessages/6f178e04-df69-4fb3-8d3c-f1083e98c298": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestNewSubscriberReceivesOldMessages/6f178e04-df69-4fb3-8d3c-f1083e98c298"
+      },
+      "Start": "2024-09-18T21:10:31.980861+02:00",
+      "End": "2024-09-18T21:10:31.980936+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestNoAck"
+      },
+      "Start": "2024-09-18T21:10:02.750599+02:00",
+      "End": "2024-09-18T21:10:02.750681+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestNoAck/9e6259bc-afe7-45c2-897c-880184780c51": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestNoAck/9e6259bc-afe7-45c2-897c-880184780c51"
+      },
+      "Start": "2024-09-18T21:10:02.750628+02:00",
+      "End": "2024-09-18T21:10:02.750665+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:10:00.77706+02:00",
+      "End": "2024-09-18T21:10:12.778096+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublishSubscribe/830c55e1-34b7-48b6-a69c-c1858a11ea9a": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestPublishSubscribe/830c55e1-34b7-48b6-a69c-c1858a11ea9a"
+      },
+      "Start": "2024-09-18T21:10:00.777895+02:00",
+      "End": "2024-09-18T21:10:12.778032+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:10:02.750499+02:00",
+      "End": "2024-09-18T21:10:02.750593+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublishSubscribeInOrder/809f276f-9b43-4aee-83a4-1b256337649e": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestPublishSubscribeInOrder/809f276f-9b43-4aee-83a4-1b256337649e"
+      },
+      "Start": "2024-09-18T21:10:02.750521+02:00",
+      "End": "2024-09-18T21:10:02.750557+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.335432+02:00",
+      "End": "2024-09-18T21:05:19.336242+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestReconnect/4d9ceb48-5c4c-4f55-a15c-a43473caf695": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestReconnect/4d9ceb48-5c4c-4f55-a15c-a43473caf695"
+      },
+      "Start": "2024-09-18T21:05:19.336163+02:00",
+      "End": "2024-09-18T21:05:19.336231+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:10:24.655467+02:00",
+      "End": "2024-09-18T21:10:41.074416+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestResendOnError/af2d823b-c9d0-4ce0-9b2f-bb18bd7d0661": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestResendOnError/af2d823b-c9d0-4ce0-9b2f-bb18bd7d0661"
+      },
+      "Start": "2024-09-18T21:10:24.655505+02:00",
+      "End": "2024-09-18T21:10:41.074378+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:10:30.861257+02:00",
+      "End": "2024-09-18T21:10:31.980651+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestSubscribeCtx/a49283f8-b0ee-438b-b106-52897ae4fd2f": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestSubscribeCtx/a49283f8-b0ee-438b-b106-52897ae4fd2f"
+      },
+      "Start": "2024-09-18T21:10:30.861267+02:00",
+      "End": "2024-09-18T21:10:31.980607+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestTopic"
+      },
+      "Start": "2024-09-18T21:10:31.981012+02:00",
+      "End": "2024-09-18T21:10:32.125982+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestTopic/0653f7e9-0727-4a0e-9aed-98ce16b42396": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/2/TestTopic/0653f7e9-0727-4a0e-9aed-98ce16b42396"
+      },
+      "Start": "2024-09-18T21:10:31.981058+02:00",
+      "End": "2024-09-18T21:10:32.125966+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:08:28.487478+02:00",
+      "End": "2024-09-18T21:08:30.070258+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentClose/c9c47a8b-dc51-4a5e-a445-07d272b07e57": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentClose/c9c47a8b-dc51-4a5e-a445-07d272b07e57"
+      },
+      "Start": "2024-09-18T21:08:28.487542+02:00",
+      "End": "2024-09-18T21:08:30.070206+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:09:50.022922+02:00",
+      "End": "2024-09-18T21:10:10.736017+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentSubscribe/c2552c77-d3af-40c6-b718-3472820418fd": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentSubscribe/c2552c77-d3af-40c6-b718-3472820418fd"
+      },
+      "Start": "2024-09-18T21:09:50.022943+02:00",
+      "End": "2024-09-18T21:10:10.735964+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:09:41.390996+02:00",
+      "End": "2024-09-18T21:09:49.675636+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConcurrentSubscribeMultipleTopics/fd24faa9-0758-4b35-b85b-7ca9783e6616": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConcurrentSubscribeMultipleTopics/fd24faa9-0758-4b35-b85b-7ca9783e6616"
+      },
+      "Start": "2024-09-18T21:09:41.391036+02:00",
+      "End": "2024-09-18T21:09:49.675607+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:08:08.837017+02:00",
+      "End": "2024-09-18T21:08:08.837207+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestConsumerGroups/5a5d4bdb-5dfd-4f9a-99d0-c6efe8a30033": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestConsumerGroups/5a5d4bdb-5dfd-4f9a-99d0-c6efe8a30033"
+      },
+      "Start": "2024-09-18T21:08:08.837046+02:00",
+      "End": "2024-09-18T21:08:08.837157+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:08:14.095328+02:00",
+      "End": "2024-09-18T21:08:28.487448+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestContinueAfterErrors/0f723862-05ec-4877-9065-5654edb5a7c8": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestContinueAfterErrors/0f723862-05ec-4877-9065-5654edb5a7c8"
+      },
+      "Start": "2024-09-18T21:08:14.09538+02:00",
+      "End": "2024-09-18T21:08:28.487322+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:08:30.070272+02:00",
+      "End": "2024-09-18T21:11:34.268262+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestContinueAfterSubscribeClose/9b81f135-90fd-4457-a4ea-863f0e81c75f": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestContinueAfterSubscribeClose/9b81f135-90fd-4457-a4ea-863f0e81c75f"
+      },
+      "Start": "2024-09-18T21:08:30.070309+02:00",
+      "End": "2024-09-18T21:11:34.268225+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:08:09.567957+02:00",
+      "End": "2024-09-18T21:08:09.686164+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestMessageCtx/b2b013bd-4ba2-4c84-a327-4ca19dcf627f": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestMessageCtx/b2b013bd-4ba2-4c84-a327-4ca19dcf627f"
+      },
+      "Start": "2024-09-18T21:08:09.567984+02:00",
+      "End": "2024-09-18T21:08:09.686131+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:08:08.837283+02:00",
+      "End": "2024-09-18T21:08:08.837431+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestNewSubscriberReceivesOldMessages/db9dbdfc-e1f4-48ab-98eb-a8fc57c07286": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestNewSubscriberReceivesOldMessages/db9dbdfc-e1f4-48ab-98eb-a8fc57c07286"
+      },
+      "Start": "2024-09-18T21:08:08.837312+02:00",
+      "End": "2024-09-18T21:08:08.837375+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestNoAck"
+      },
+      "Start": "2024-09-18T21:08:14.094922+02:00",
+      "End": "2024-09-18T21:08:14.095275+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestNoAck/42a6e389-9e25-4aaa-8f15-d415b3e38a5b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestNoAck/42a6e389-9e25-4aaa-8f15-d415b3e38a5b"
+      },
+      "Start": "2024-09-18T21:08:14.094995+02:00",
+      "End": "2024-09-18T21:08:14.095173+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:08:04.154334+02:00",
+      "End": "2024-09-18T21:08:14.094869+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublishSubscribe/7ab83c34-cc54-4579-9dd7-242eb2e6b12a": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestPublishSubscribe/7ab83c34-cc54-4579-9dd7-242eb2e6b12a"
+      },
+      "Start": "2024-09-18T21:08:04.154383+02:00",
+      "End": "2024-09-18T21:08:14.094736+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:08:08.83686+02:00",
+      "End": "2024-09-18T21:08:08.837003+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublishSubscribeInOrder/19dd54bd-4e9e-47ea-9ca1-f2c0c33d1029": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestPublishSubscribeInOrder/19dd54bd-4e9e-47ea-9ca1-f2c0c33d1029"
+      },
+      "Start": "2024-09-18T21:08:08.836891+02:00",
+      "End": "2024-09-18T21:08:08.836962+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.335413+02:00",
+      "End": "2024-09-18T21:05:19.336385+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestReconnect/bca3120e-dbd7-4479-803d-dc2aace50a11": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestReconnect/bca3120e-dbd7-4479-803d-dc2aace50a11"
+      },
+      "Start": "2024-09-18T21:05:19.336317+02:00",
+      "End": "2024-09-18T21:05:19.336377+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:09:49.675647+02:00",
+      "End": "2024-09-18T21:10:02.750444+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestResendOnError/1cf9630e-f8d7-4257-a382-b778acc9b249": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestResendOnError/1cf9630e-f8d7-4257-a382-b778acc9b249"
+      },
+      "Start": "2024-09-18T21:09:49.675665+02:00",
+      "End": "2024-09-18T21:10:02.750366+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:08:08.837443+02:00",
+      "End": "2024-09-18T21:08:09.567943+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestSubscribeCtx/b8e663cc-08ad-43cb-a909-b1e674d0eea5": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestSubscribeCtx/b8e663cc-08ad-43cb-a909-b1e674d0eea5"
+      },
+      "Start": "2024-09-18T21:08:08.837467+02:00",
+      "End": "2024-09-18T21:08:09.567908+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestTopic"
+      },
+      "Start": "2024-09-18T21:08:09.686171+02:00",
+      "End": "2024-09-18T21:08:09.795072+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestTopic/2cccb6a8-baa5-400a-a0ba-aaca2d0ac49e": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/3/TestTopic/2cccb6a8-baa5-400a-a0ba-aaca2d0ac49e"
+      },
+      "Start": "2024-09-18T21:08:09.686186+02:00",
+      "End": "2024-09-18T21:08:09.795055+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/4/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/4/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.337892+02:00",
+      "End": "2024-09-18T21:05:19.337925+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/4/TestReconnect/fe94489e-0890-4b76-8a7c-791b2cd72d85": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/4/TestReconnect/fe94489e-0890-4b76-8a7c-791b2cd72d85"
+      },
+      "Start": "2024-09-18T21:05:19.3379+02:00",
+      "End": "2024-09-18T21:05:19.337917+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.337086+02:00",
+      "End": "2024-09-18T21:05:32.10905+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentClose/65100a15-00f3-4fc1-8986-cfe993482550": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentClose/65100a15-00f3-4fc1-8986-cfe993482550"
+      },
+      "Start": "2024-09-18T21:05:19.337094+02:00",
+      "End": "2024-09-18T21:05:32.109035+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:05:32.10915+02:00",
+      "End": "2024-09-18T21:06:20.200182+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentSubscribe/b92dd349-e1e6-42f6-9720-a66078932b05": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentSubscribe/b92dd349-e1e6-42f6-9720-a66078932b05"
+      },
+      "Start": "2024-09-18T21:05:32.109158+02:00",
+      "End": "2024-09-18T21:06:20.200159+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:25.072008+02:00",
+      "End": "2024-09-18T21:05:56.79493+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentSubscribeMultipleTopics/ab806a14-0dfe-4549-8253-5e2e65f637e6": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConcurrentSubscribeMultipleTopics/ab806a14-0dfe-4549-8253-5e2e65f637e6"
+      },
+      "Start": "2024-09-18T21:05:25.072019+02:00",
+      "End": "2024-09-18T21:05:56.794853+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:19.337436+02:00",
+      "End": "2024-09-18T21:05:19.33816+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConsumerGroups/8b999326-55c7-4641-b11f-9553ab763019": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestConsumerGroups/8b999326-55c7-4641-b11f-9553ab763019"
+      },
+      "Start": "2024-09-18T21:05:19.337476+02:00",
+      "End": "2024-09-18T21:05:19.338114+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:19.336487+02:00",
+      "End": "2024-09-18T21:06:08.471982+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestContinueAfterErrors/ee164e0a-6031-4cec-9a86-973b6564f0b8": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestContinueAfterErrors/ee164e0a-6031-4cec-9a86-973b6564f0b8"
+      },
+      "Start": "2024-09-18T21:05:19.336962+02:00",
+      "End": "2024-09-18T21:06:08.471841+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:19.336172+02:00",
+      "End": "2024-09-18T21:09:41.390977+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestContinueAfterSubscribeClose/aca4ebd6-a965-4f01-a482-f680a52d879d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestContinueAfterSubscribeClose/aca4ebd6-a965-4f01-a482-f680a52d879d"
+      },
+      "Start": "2024-09-18T21:05:19.336185+02:00",
+      "End": "2024-09-18T21:09:41.390938+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.338024+02:00",
+      "End": "2024-09-18T21:05:20.304822+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestMessageCtx/113ae7fe-1d2d-484f-9d58-d465107141e0": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestMessageCtx/113ae7fe-1d2d-484f-9d58-d465107141e0"
+      },
+      "Start": "2024-09-18T21:05:19.338033+02:00",
+      "End": "2024-09-18T21:05:20.304782+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:19.337693+02:00",
+      "End": "2024-09-18T21:05:19.337847+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestNewSubscriberReceivesOldMessages/17a9fa81-3ce4-4a44-b3ae-8f07f9b1a5f3": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestNewSubscriberReceivesOldMessages/17a9fa81-3ce4-4a44-b3ae-8f07f9b1a5f3"
+      },
+      "Start": "2024-09-18T21:05:19.337708+02:00",
+      "End": "2024-09-18T21:05:19.337838+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:20.304838+02:00",
+      "End": "2024-09-18T21:05:20.304968+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestNoAck/b8c5fa78-5010-4ec1-af65-e4ac9d2c02fb": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestNoAck/b8c5fa78-5010-4ec1-af65-e4ac9d2c02fb"
+      },
+      "Start": "2024-09-18T21:05:20.304868+02:00",
+      "End": "2024-09-18T21:05:20.304929+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:19.335137+02:00",
+      "End": "2024-09-18T21:05:45.137788+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublishSubscribe/a4cecb58-6d51-4e92-9f0e-99998c810c1f": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestPublishSubscribe/a4cecb58-6d51-4e92-9f0e-99998c810c1f"
+      },
+      "Start": "2024-09-18T21:05:19.335145+02:00",
+      "End": "2024-09-18T21:05:45.137606+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:19.33643+02:00",
+      "End": "2024-09-18T21:05:19.337689+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublishSubscribeInOrder/b3410da3-e9b0-4b34-a0cf-69ed802ed2ef": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestPublishSubscribeInOrder/b3410da3-e9b0-4b34-a0cf-69ed802ed2ef"
+      },
+      "Start": "2024-09-18T21:05:19.337072+02:00",
+      "End": "2024-09-18T21:05:19.337681+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.334843+02:00",
+      "End": "2024-09-18T21:05:19.335084+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestReconnect/0b582db4-1da5-480f-bb51-f650916bfad1": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestReconnect/0b582db4-1da5-480f-bb51-f650916bfad1"
+      },
+      "Start": "2024-09-18T21:05:19.334993+02:00",
+      "End": "2024-09-18T21:05:19.335062+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:20.199747+02:00",
+      "End": "2024-09-18T21:05:46.410802+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestResendOnError/489eb4d1-1c42-4e69-ab51-b758b1c58cca": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestResendOnError/489eb4d1-1c42-4e69-ab51-b758b1c58cca"
+      },
+      "Start": "2024-09-18T21:05:20.199815+02:00",
+      "End": "2024-09-18T21:05:46.410771+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:19.337851+02:00",
+      "End": "2024-09-18T21:05:25.072003+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestSubscribeCtx/d77b5b5d-43fe-42d2-9a50-c55d1c07fe80": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestSubscribeCtx/d77b5b5d-43fe-42d2-9a50-c55d1c07fe80"
+      },
+      "Start": "2024-09-18T21:05:19.337867+02:00",
+      "End": "2024-09-18T21:05:25.071988+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:19.338014+02:00",
+      "End": "2024-09-18T21:05:20.312715+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestTopic/53ad3a73-39d1-43b5-8f70-27d427e2676f": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/5/TestTopic/53ad3a73-39d1-43b5-8f70-27d427e2676f"
+      },
+      "Start": "2024-09-18T21:05:19.338045+02:00",
+      "End": "2024-09-18T21:05:20.312685+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:10:55.211017+02:00",
+      "End": "2024-09-18T21:10:58.895857+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentClose/5601ea1a-0701-4f52-8816-1e69a0533362": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentClose/5601ea1a-0701-4f52-8816-1e69a0533362"
+      },
+      "Start": "2024-09-18T21:10:55.211323+02:00",
+      "End": "2024-09-18T21:10:58.895811+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:11:20.489444+02:00",
+      "End": "2024-09-18T21:11:38.676818+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentSubscribe/015fb462-df00-4315-8e30-12c4816a08eb": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentSubscribe/015fb462-df00-4315-8e30-12c4816a08eb"
+      },
+      "Start": "2024-09-18T21:11:20.489525+02:00",
+      "End": "2024-09-18T21:11:38.676719+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:11:09.914007+02:00",
+      "End": "2024-09-18T21:11:20.489408+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConcurrentSubscribeMultipleTopics/12890391-f839-4e81-b6a8-ad6d415a5b64": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConcurrentSubscribeMultipleTopics/12890391-f839-4e81-b6a8-ad6d415a5b64"
+      },
+      "Start": "2024-09-18T21:11:09.914038+02:00",
+      "End": "2024-09-18T21:11:20.489326+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:11:37.913191+02:00",
+      "End": "2024-09-18T21:11:37.913321+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestConsumerGroups/4f7722c7-3344-4d37-ae36-a83168547b0d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestConsumerGroups/4f7722c7-3344-4d37-ae36-a83168547b0d"
+      },
+      "Start": "2024-09-18T21:11:37.913221+02:00",
+      "End": "2024-09-18T21:11:37.913289+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:10:49.106517+02:00",
+      "End": "2024-09-18T21:11:06.890992+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestContinueAfterErrors/f39a169e-9886-480f-bb36-3f6f15b2de03": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestContinueAfterErrors/f39a169e-9886-480f-bb36-3f6f15b2de03"
+      },
+      "Start": "2024-09-18T21:10:49.106595+02:00",
+      "End": "2024-09-18T21:11:06.890834+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:11:38.605225+02:00",
+      "End": "2024-09-18T21:11:38.810347+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestMessageCtx/8edcd904-3946-4fbe-a162-af2ba5c00abe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestMessageCtx/8edcd904-3946-4fbe-a162-af2ba5c00abe"
+      },
+      "Start": "2024-09-18T21:11:38.605264+02:00",
+      "End": "2024-09-18T21:11:38.810329+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:11:37.913336+02:00",
+      "End": "2024-09-18T21:11:37.916063+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestNewSubscriberReceivesOldMessages/31aa93f8-fd0d-496a-ad85-9cc820393ba0": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestNewSubscriberReceivesOldMessages/31aa93f8-fd0d-496a-ad85-9cc820393ba0"
+      },
+      "Start": "2024-09-18T21:11:37.91576+02:00",
+      "End": "2024-09-18T21:11:37.91587+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestNoAck"
+      },
+      "Start": "2024-09-18T21:11:06.893165+02:00",
+      "End": "2024-09-18T21:11:06.893527+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestNoAck/1abc7a1a-7701-4925-b154-581924e7da20": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestNoAck/1abc7a1a-7701-4925-b154-581924e7da20"
+      },
+      "Start": "2024-09-18T21:11:06.893297+02:00",
+      "End": "2024-09-18T21:11:06.893462+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:10:41.074447+02:00",
+      "End": "2024-09-18T21:10:55.210838+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublishSubscribe/cb0cf38f-4a2b-4ae1-817b-e62c399eabcd": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestPublishSubscribe/cb0cf38f-4a2b-4ae1-817b-e62c399eabcd"
+      },
+      "Start": "2024-09-18T21:10:41.074471+02:00",
+      "End": "2024-09-18T21:10:55.210526+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:10:49.105935+02:00",
+      "End": "2024-09-18T21:10:49.106485+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublishSubscribeInOrder/2eba0b33-9241-4f08-a5c9-95614adc60ff": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestPublishSubscribeInOrder/2eba0b33-9241-4f08-a5c9-95614adc60ff"
+      },
+      "Start": "2024-09-18T21:10:49.106007+02:00",
+      "End": "2024-09-18T21:10:49.106355+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.336309+02:00",
+      "End": "2024-09-18T21:05:19.337264+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestReconnect/5f6c2ad3-c2eb-4e2c-b48a-7c457a85ec69": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestReconnect/5f6c2ad3-c2eb-4e2c-b48a-7c457a85ec69"
+      },
+      "Start": "2024-09-18T21:05:19.337122+02:00",
+      "End": "2024-09-18T21:05:19.337255+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:11:06.893564+02:00",
+      "End": "2024-09-18T21:11:09.913991+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestResendOnError/3f439c81-468c-4619-b5c9-fa1e1ef4de07": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestResendOnError/3f439c81-468c-4619-b5c9-fa1e1ef4de07"
+      },
+      "Start": "2024-09-18T21:11:06.893609+02:00",
+      "End": "2024-09-18T21:11:09.913929+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:11:34.26828+02:00",
+      "End": "2024-09-18T21:11:37.913157+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestSubscribeCtx/24e70c4e-728b-4dbe-b00a-f18b512e4d72": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestSubscribeCtx/24e70c4e-728b-4dbe-b00a-f18b512e4d72"
+      },
+      "Start": "2024-09-18T21:11:34.268299+02:00",
+      "End": "2024-09-18T21:11:37.913106+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestTopic"
+      },
+      "Start": "2024-09-18T21:11:37.91608+02:00",
+      "End": "2024-09-18T21:11:38.605204+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestTopic/fd68bcbb-4411-43d4-a6db-ba03e122e6d9": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/6/TestTopic/fd68bcbb-4411-43d4-a6db-ba03e122e6d9"
+      },
+      "Start": "2024-09-18T21:11:37.91611+02:00",
+      "End": "2024-09-18T21:11:38.605096+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:06:20.200192+02:00",
+      "End": "2024-09-18T21:06:34.520624+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentClose/e1a22a10-782c-4e75-8d25-fed8afb7dad6": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentClose/e1a22a10-782c-4e75-8d25-fed8afb7dad6"
+      },
+      "Start": "2024-09-18T21:06:20.200206+02:00",
+      "End": "2024-09-18T21:06:34.520579+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:06:32.347931+02:00",
+      "End": "2024-09-18T21:07:13.609224+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentSubscribe/5e39e723-02e2-4807-bdff-5fe955a160a1": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentSubscribe/5e39e723-02e2-4807-bdff-5fe955a160a1"
+      },
+      "Start": "2024-09-18T21:06:32.347995+02:00",
+      "End": "2024-09-18T21:07:13.60918+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:06:45.238577+02:00",
+      "End": "2024-09-18T21:07:14.661864+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConcurrentSubscribeMultipleTopics/64f49c28-c333-4f8a-b65a-524a98b20ce7": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConcurrentSubscribeMultipleTopics/64f49c28-c333-4f8a-b65a-524a98b20ce7"
+      },
+      "Start": "2024-09-18T21:06:45.238605+02:00",
+      "End": "2024-09-18T21:07:14.661847+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:06:57.328966+02:00",
+      "End": "2024-09-18T21:06:57.329112+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestConsumerGroups/bbd6a317-58ac-4196-b7c3-f6e6729cf611": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestConsumerGroups/bbd6a317-58ac-4196-b7c3-f6e6729cf611"
+      },
+      "Start": "2024-09-18T21:06:57.329+02:00",
+      "End": "2024-09-18T21:06:57.329079+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:06:17.812203+02:00",
+      "End": "2024-09-18T21:07:01.560856+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestContinueAfterErrors/83ca0d15-3078-44e7-b97b-44fcb48e36a7": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestContinueAfterErrors/83ca0d15-3078-44e7-b97b-44fcb48e36a7"
+      },
+      "Start": "2024-09-18T21:06:17.812211+02:00",
+      "End": "2024-09-18T21:07:01.560784+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:06:24.034154+02:00",
+      "End": "2024-09-18T21:10:00.776972+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestContinueAfterSubscribeClose/ae540aea-0a3b-4f73-96ff-19e485431393": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestContinueAfterSubscribeClose/ae540aea-0a3b-4f73-96ff-19e485431393"
+      },
+      "Start": "2024-09-18T21:06:24.034169+02:00",
+      "End": "2024-09-18T21:10:00.775733+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:06:58.810206+02:00",
+      "End": "2024-09-18T21:06:59.637121+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestMessageCtx/04491fdd-19fa-4d1e-bcfe-bf15830dc0d9": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestMessageCtx/04491fdd-19fa-4d1e-bcfe-bf15830dc0d9"
+      },
+      "Start": "2024-09-18T21:06:58.810267+02:00",
+      "End": "2024-09-18T21:06:59.637082+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:06:57.329126+02:00",
+      "End": "2024-09-18T21:06:57.329289+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestNewSubscriberReceivesOldMessages/a5e91c7e-cc81-4d18-82a4-04d6bb72502d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestNewSubscriberReceivesOldMessages/a5e91c7e-cc81-4d18-82a4-04d6bb72502d"
+      },
+      "Start": "2024-09-18T21:06:57.329158+02:00",
+      "End": "2024-09-18T21:06:57.329239+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestNoAck"
+      },
+      "Start": "2024-09-18T21:06:17.812127+02:00",
+      "End": "2024-09-18T21:06:17.812199+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestNoAck/1ae4ebb6-d9ab-4229-b557-6bb950f1aeb3": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestNoAck/1ae4ebb6-d9ab-4229-b557-6bb950f1aeb3"
+      },
+      "Start": "2024-09-18T21:06:17.812153+02:00",
+      "End": "2024-09-18T21:06:17.812172+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:06:12.536461+02:00",
+      "End": "2024-09-18T21:06:45.238518+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublishSubscribe/34ae2fba-473a-47bb-9345-5aed6ba6b74c": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestPublishSubscribe/34ae2fba-473a-47bb-9345-5aed6ba6b74c"
+      },
+      "Start": "2024-09-18T21:06:12.536517+02:00",
+      "End": "2024-09-18T21:06:45.238468+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:06:17.81206+02:00",
+      "End": "2024-09-18T21:06:17.812122+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublishSubscribeInOrder/5f28eed4-c6c2-499d-9592-79cc3c4a4da4": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestPublishSubscribeInOrder/5f28eed4-c6c2-499d-9592-79cc3c4a4da4"
+      },
+      "Start": "2024-09-18T21:06:17.812073+02:00",
+      "End": "2024-09-18T21:06:17.812101+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.335406+02:00",
+      "End": "2024-09-18T21:05:19.335544+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestReconnect/ca03784c-c5df-4fc8-aadd-aa6f6d72dc07": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestReconnect/ca03784c-c5df-4fc8-aadd-aa6f6d72dc07"
+      },
+      "Start": "2024-09-18T21:05:19.33544+02:00",
+      "End": "2024-09-18T21:05:19.335535+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:06:34.520647+02:00",
+      "End": "2024-09-18T21:07:05.47471+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestResendOnError/68546517-3ca5-4cd9-b277-9731947d5aa9": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestResendOnError/68546517-3ca5-4cd9-b277-9731947d5aa9"
+      },
+      "Start": "2024-09-18T21:06:34.520657+02:00",
+      "End": "2024-09-18T21:07:05.474661+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:06:53.995267+02:00",
+      "End": "2024-09-18T21:06:57.32895+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestSubscribeCtx/5e62dbf5-4573-4a97-946e-4239e1ba9b91": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestSubscribeCtx/5e62dbf5-4573-4a97-946e-4239e1ba9b91"
+      },
+      "Start": "2024-09-18T21:06:53.995349+02:00",
+      "End": "2024-09-18T21:06:57.328888+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestTopic"
+      },
+      "Start": "2024-09-18T21:06:57.329305+02:00",
+      "End": "2024-09-18T21:06:58.81019+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestTopic/e8470abb-f309-403a-aa12-949b5983589c": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/7/TestTopic/e8470abb-f309-403a-aa12-949b5983589c"
+      },
+      "Start": "2024-09-18T21:06:57.332403+02:00",
+      "End": "2024-09-18T21:06:58.810148+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:07:14.745688+02:00",
+      "End": "2024-09-18T21:07:21.844505+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentClose/e4f6e40b-7466-4282-afc7-abaa6c16e1b9": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentClose/e4f6e40b-7466-4282-afc7-abaa6c16e1b9"
+      },
+      "Start": "2024-09-18T21:07:14.745698+02:00",
+      "End": "2024-09-18T21:07:21.8444+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:07:47.833011+02:00",
+      "End": "2024-09-18T21:08:08.836841+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentSubscribe/89e757f9-3e68-415b-ab5e-108d9899dae0": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentSubscribe/89e757f9-3e68-415b-ab5e-108d9899dae0"
+      },
+      "Start": "2024-09-18T21:07:47.833027+02:00",
+      "End": "2024-09-18T21:08:08.836778+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:07:22.959371+02:00",
+      "End": "2024-09-18T21:07:50.171792+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConcurrentSubscribeMultipleTopics/2b080e8d-2c19-4852-8790-94771e846184": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConcurrentSubscribeMultipleTopics/2b080e8d-2c19-4852-8790-94771e846184"
+      },
+      "Start": "2024-09-18T21:07:22.959383+02:00",
+      "End": "2024-09-18T21:07:50.171753+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:07:05.474726+02:00",
+      "End": "2024-09-18T21:07:05.474961+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestConsumerGroups/ec139777-795e-4f3a-9dff-82ecdabb9c3a": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestConsumerGroups/ec139777-795e-4f3a-9dff-82ecdabb9c3a"
+      },
+      "Start": "2024-09-18T21:07:05.474762+02:00",
+      "End": "2024-09-18T21:07:05.474917+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:07:14.661921+02:00",
+      "End": "2024-09-18T21:07:47.832999+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestContinueAfterErrors/78a8c752-5390-4de2-8314-8dc04083b35d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestContinueAfterErrors/78a8c752-5390-4de2-8314-8dc04083b35d"
+      },
+      "Start": "2024-09-18T21:07:14.66193+02:00",
+      "End": "2024-09-18T21:07:47.832971+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:07:21.844535+02:00",
+      "End": "2024-09-18T21:10:30.86125+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestContinueAfterSubscribeClose/b7f60456-9ed7-424a-87ce-a3f83b527cc5": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestContinueAfterSubscribeClose/b7f60456-9ed7-424a-87ce-a3f83b527cc5"
+      },
+      "Start": "2024-09-18T21:07:21.844566+02:00",
+      "End": "2024-09-18T21:10:30.86123+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:07:12.739878+02:00",
+      "End": "2024-09-18T21:07:13.688194+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestMessageCtx/4fde35a1-3374-43cd-b9d0-c6d9af13476d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestMessageCtx/4fde35a1-3374-43cd-b9d0-c6d9af13476d"
+      },
+      "Start": "2024-09-18T21:07:12.739958+02:00",
+      "End": "2024-09-18T21:07:13.688179+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:07:05.474975+02:00",
+      "End": "2024-09-18T21:07:05.475131+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestNewSubscriberReceivesOldMessages/5e8bc1b9-17a5-4834-9446-44d9b074dd70": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestNewSubscriberReceivesOldMessages/5e8bc1b9-17a5-4834-9446-44d9b074dd70"
+      },
+      "Start": "2024-09-18T21:07:05.475004+02:00",
+      "End": "2024-09-18T21:07:05.475099+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestNoAck"
+      },
+      "Start": "2024-09-18T21:07:50.171803+02:00",
+      "End": "2024-09-18T21:07:50.171852+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestNoAck/4a1205d6-9667-4e9f-ba9c-8ffb2cae9ff5": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestNoAck/4a1205d6-9667-4e9f-ba9c-8ffb2cae9ff5"
+      },
+      "Start": "2024-09-18T21:07:50.171818+02:00",
+      "End": "2024-09-18T21:07:50.171843+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:07:01.560872+02:00",
+      "End": "2024-09-18T21:07:22.959364+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublishSubscribe/af5b29bf-28a2-4bc9-b1d1-69b349d429d7": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestPublishSubscribe/af5b29bf-28a2-4bc9-b1d1-69b349d429d7"
+      },
+      "Start": "2024-09-18T21:07:01.560902+02:00",
+      "End": "2024-09-18T21:07:22.959346+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:07:14.661869+02:00",
+      "End": "2024-09-18T21:07:14.661917+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublishSubscribeInOrder/a65c5ece-33f6-4274-ad21-650293b5032b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestPublishSubscribeInOrder/a65c5ece-33f6-4274-ad21-650293b5032b"
+      },
+      "Start": "2024-09-18T21:07:14.661881+02:00",
+      "End": "2024-09-18T21:07:14.661904+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.335564+02:00",
+      "End": "2024-09-18T21:05:19.335596+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestReconnect/4433329d-1f8a-4893-96d8-ad67366e868e": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestReconnect/4433329d-1f8a-4893-96d8-ad67366e868e"
+      },
+      "Start": "2024-09-18T21:05:19.335571+02:00",
+      "End": "2024-09-18T21:05:19.335587+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:07:50.171856+02:00",
+      "End": "2024-09-18T21:08:04.154311+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestResendOnError/d2170945-0611-455e-82fd-5f6a06efcd01": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestResendOnError/d2170945-0611-455e-82fd-5f6a06efcd01"
+      },
+      "Start": "2024-09-18T21:07:50.171865+02:00",
+      "End": "2024-09-18T21:08:04.15423+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:07:05.475145+02:00",
+      "End": "2024-09-18T21:07:12.739838+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestSubscribeCtx/7a3e0e02-88f5-4334-8df5-c20cda37b406": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestSubscribeCtx/7a3e0e02-88f5-4334-8df5-c20cda37b406"
+      },
+      "Start": "2024-09-18T21:07:05.475173+02:00",
+      "End": "2024-09-18T21:07:12.739735+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestTopic"
+      },
+      "Start": "2024-09-18T21:07:13.60923+02:00",
+      "End": "2024-09-18T21:07:14.745683+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestTopic/8ae0c3f7-90aa-4514-8091-2a6430c46638": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/8/TestTopic/8ae0c3f7-90aa-4514-8091-2a6430c46638"
+      },
+      "Start": "2024-09-18T21:07:13.609255+02:00",
+      "End": "2024-09-18T21:07:14.745666+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentClose"
+      },
+      "Start": "2024-09-18T21:05:19.338187+02:00",
+      "End": "2024-09-18T21:05:32.951189+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentClose/fb0ce1d8-63ec-4293-95dd-6968edc43142": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentClose/fb0ce1d8-63ec-4293-95dd-6968edc43142"
+      },
+      "Start": "2024-09-18T21:05:19.338198+02:00",
+      "End": "2024-09-18T21:05:32.951136+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentSubscribe"
+      },
+      "Start": "2024-09-18T21:06:08.472015+02:00",
+      "End": "2024-09-18T21:06:53.995251+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentSubscribe/1927ecd1-db62-4a80-9d6d-c03a4aa4410d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentSubscribe/1927ecd1-db62-4a80-9d6d-c03a4aa4410d"
+      },
+      "Start": "2024-09-18T21:06:08.472065+02:00",
+      "End": "2024-09-18T21:06:53.995206+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentSubscribeMultipleTopics": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentSubscribeMultipleTopics"
+      },
+      "Start": "2024-09-18T21:05:56.794949+02:00",
+      "End": "2024-09-18T21:06:32.347916+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConcurrentSubscribeMultipleTopics/aa1aeef4-d06b-4bc6-acd0-5090b76db89a": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConcurrentSubscribeMultipleTopics/aa1aeef4-d06b-4bc6-acd0-5090b76db89a"
+      },
+      "Start": "2024-09-18T21:05:56.794981+02:00",
+      "End": "2024-09-18T21:06:32.347868+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConsumerGroups": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConsumerGroups"
+      },
+      "Start": "2024-09-18T21:05:32.109115+02:00",
+      "End": "2024-09-18T21:05:32.109147+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestConsumerGroups/d99d3e3d-0af6-4557-a2d1-4befaca1152f": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestConsumerGroups/d99d3e3d-0af6-4557-a2d1-4befaca1152f"
+      },
+      "Start": "2024-09-18T21:05:32.109122+02:00",
+      "End": "2024-09-18T21:05:32.109139+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestContinueAfterErrors": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestContinueAfterErrors"
+      },
+      "Start": "2024-09-18T21:05:21.389585+02:00",
+      "End": "2024-09-18T21:06:12.536434+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestContinueAfterErrors/e0aee992-b839-4266-ac90-09dca88d98aa": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestContinueAfterErrors/e0aee992-b839-4266-ac90-09dca88d98aa"
+      },
+      "Start": "2024-09-18T21:05:21.389625+02:00",
+      "End": "2024-09-18T21:06:12.535766+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestContinueAfterSubscribeClose": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestContinueAfterSubscribeClose"
+      },
+      "Start": "2024-09-18T21:05:45.137816+02:00",
+      "End": "2024-09-18T21:09:50.022917+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestContinueAfterSubscribeClose/f6da590b-9815-43d6-8873-ec6b23d96ff0": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestContinueAfterSubscribeClose/f6da590b-9815-43d6-8873-ec6b23d96ff0"
+      },
+      "Start": "2024-09-18T21:05:45.137888+02:00",
+      "End": "2024-09-18T21:09:50.022895+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestMessageCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestMessageCtx"
+      },
+      "Start": "2024-09-18T21:05:19.337342+02:00",
+      "End": "2024-09-18T21:05:20.199728+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestMessageCtx/278f415b-5b0b-4d4c-a54e-80f41fc29400": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestMessageCtx/278f415b-5b0b-4d4c-a54e-80f41fc29400"
+      },
+      "Start": "2024-09-18T21:05:19.337412+02:00",
+      "End": "2024-09-18T21:05:20.199679+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestNewSubscriberReceivesOldMessages": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestNewSubscriberReceivesOldMessages"
+      },
+      "Start": "2024-09-18T21:05:32.109055+02:00",
+      "End": "2024-09-18T21:05:32.109111+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestNewSubscriberReceivesOldMessages/412b9fcd-2fa1-4a08-ae54-1d9ac51a4f8b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestNewSubscriberReceivesOldMessages/412b9fcd-2fa1-4a08-ae54-1d9ac51a4f8b"
+      },
+      "Start": "2024-09-18T21:05:32.109064+02:00",
+      "End": "2024-09-18T21:05:32.1091+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestNoAck": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestNoAck"
+      },
+      "Start": "2024-09-18T21:05:46.410807+02:00",
+      "End": "2024-09-18T21:05:46.410866+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestNoAck/00f8bdd5-d1a5-4675-b2d1-4df304e9b2ed": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestNoAck/00f8bdd5-d1a5-4675-b2d1-4df304e9b2ed"
+      },
+      "Start": "2024-09-18T21:05:46.410824+02:00",
+      "End": "2024-09-18T21:05:46.410851+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublishSubscribe": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestPublishSubscribe"
+      },
+      "Start": "2024-09-18T21:05:40.334965+02:00",
+      "End": "2024-09-18T21:06:17.812054+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublishSubscribe/a3bdcbc6-375c-455b-85ce-48554d535e5a": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestPublishSubscribe/a3bdcbc6-375c-455b-85ce-48554d535e5a"
+      },
+      "Start": "2024-09-18T21:05:40.334975+02:00",
+      "End": "2024-09-18T21:06:17.81203+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublishSubscribeInOrder": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestPublishSubscribeInOrder"
+      },
+      "Start": "2024-09-18T21:05:21.389383+02:00",
+      "End": "2024-09-18T21:05:21.389566+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublishSubscribeInOrder/9c6bac49-f4da-44c6-b91d-75054427bb60": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestPublishSubscribeInOrder/9c6bac49-f4da-44c6-b91d-75054427bb60"
+      },
+      "Start": "2024-09-18T21:05:21.389422+02:00",
+      "End": "2024-09-18T21:05:21.389506+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestReconnect": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestReconnect"
+      },
+      "Start": "2024-09-18T21:05:19.333256+02:00",
+      "End": "2024-09-18T21:05:19.334857+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestReconnect/9962e401-0d29-4ea8-980b-2ff158c25f13": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestReconnect/9962e401-0d29-4ea8-980b-2ff158c25f13"
+      },
+      "Start": "2024-09-18T21:05:19.333285+02:00",
+      "End": "2024-09-18T21:05:19.334266+02:00",
+      "Passed": false
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestResendOnError": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestResendOnError"
+      },
+      "Start": "2024-09-18T21:05:46.410869+02:00",
+      "End": "2024-09-18T21:06:24.034137+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestResendOnError/b7b510a6-4d68-41a9-8427-37e552d4042d": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestResendOnError/b7b510a6-4d68-41a9-8427-37e552d4042d"
+      },
+      "Start": "2024-09-18T21:05:46.410877+02:00",
+      "End": "2024-09-18T21:06:24.034096+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestSubscribeCtx": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestSubscribeCtx"
+      },
+      "Start": "2024-09-18T21:05:32.951209+02:00",
+      "End": "2024-09-18T21:05:40.334955+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestSubscribeCtx/f3c69106-62ab-4dc7-89da-8a73499c427b": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestSubscribeCtx/f3c69106-62ab-4dc7-89da-8a73499c427b"
+      },
+      "Start": "2024-09-18T21:05:32.951247+02:00",
+      "End": "2024-09-18T21:05:40.334923+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestTopic": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestTopic"
+      },
+      "Start": "2024-09-18T21:05:20.304984+02:00",
+      "End": "2024-09-18T21:05:21.389363+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestTopic/37b0480a-8e12-4887-aeb5-a2b6199bc406": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestPubSub_stress/9/TestTopic/37b0480a-8e12-4887-aeb5-a2b6199bc406"
+      },
+      "Start": "2024-09-18T21:05:20.305013+02:00",
+      "End": "2024-09-18T21:05:21.389314+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestQueueConfigAttributes_Attributes": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestQueueConfigAttributes_Attributes"
+      },
+      "Start": "2024-09-18T21:02:12.984986+02:00",
+      "End": "2024-09-18T21:02:12.985164+02:00",
+      "Passed": true
+    },
+    "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestQueueConfigAttributes_Attributes_custom_attributes": {
+      "Test": {
+        "Package": "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs",
+        "TestName": "TestQueueConfigAttributes_Attributes_custom_attributes"
+      },
+      "Start": "2024-09-18T21:02:12.98517+02:00",
+      "End": "2024-09-18T21:02:12.985229+02:00",
+      "Passed": true
+    }
+  },
+  "Start": "2024-09-18T21:02:11.282888+02:00",
+  "End": "2024-09-18T21:12:13.0365+02:00",
+  "MaxDuration": 262054805000
+}
