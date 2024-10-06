@@ -6,6 +6,7 @@ import (
 	_ "embed"
 	"flag"
 	"fmt"
+	"io"
 	"log/slog"
 	"os"
 	"os/signal"
@@ -26,6 +27,7 @@ var testDurationCutoff string
 var testDurationCutoffDuration time.Duration
 var printHTML bool
 var keepRunning bool
+var fromFile string
 
 func main() {
 	ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
@@ -35,6 +37,7 @@ func main() {
 	flag.BoolVar(&dontPassOutput, "dont-pass-output", false, "don't print output received to stdin")
 	flag.BoolVar(&keepRunning, "keep-running", false, "keep browser running after page was opened")
 	flag.BoolVar(&printHTML, "print-html", false, "print html to stdout instead of opening browser")
+	flag.StringVar(&fromFile, "from-file", "", "read input from file instead of stdin")
 
 	flag.StringVar(
 		&testDurationCutoff,
@@ -62,16 +65,33 @@ func main() {
 		}),
 	))
 
-	r, err := cancelreader.NewReader(os.Stdin)
-	if err != nil {
-		slog.Error("Error creating cancel reader", "err", err)
-		return
-	}
+	var r io.Reader
 
-	go func() {
-		<-ctx.Done()
-		r.Cancel()
-	}()
+	if fromFile == "" {
+		sr, err := cancelreader.NewReader(os.Stdin)
+		if err != nil {
+			slog.Error("Error creating cancel reader", "err", err)
+			return
+		}
+
+		go func() {
+			<-ctx.Done()
+			sr.Cancel()
+		}()
+
+		r = sr
+	} else {
+		f, err := os.Open(fromFile)
+		if err != nil {
+			slog.Error("Error opening file", "err", err)
+			return
+		}
+		defer func() {
+			_ = f.Close()
+		}()
+
+		r = f
+	}
 
 	scanner := bufio.NewScanner(r)
 

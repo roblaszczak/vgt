@@ -48,12 +48,14 @@ cat test.json | vgt
 Usage of vgt:
   -debug
     	enable debug mode
+  -dont-pass-output
+    	don't print output received to stdin
   -duration-cutoff string
     	threshold for test duration cutoff, under which tests are not shown in the chart (default "100µs")
+  -from-file string
+    	read input from file instead of stdin
   -keep-running
     	keep browser running after page was opened
-  -pass-output
-    	pass output received to stdout (default true)
   -print-html
     	print html to stdout instead of opening browser
 ```
