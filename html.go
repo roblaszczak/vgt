@@ -213,6 +213,8 @@ body {
 		}
 	}
 
+	duration := pr.End.Sub(pr.Start)
+
 	buf := new(strings.Builder)
 	err = t.Execute(buf, map[string]any{
 		"plotly":       template.JS(plotly),
@@ -221,7 +223,7 @@ body {
 		"callOnLoad":   callOnLoad,
 		"passed":       passed,
 		"failed":       failed,
-		"duration":     pr.MaxDuration.Round(time.Millisecond).String(),
+		"duration":     duration.Round(time.Millisecond).String(),
 	})
 	if err != nil {
 		return "", fmt.Errorf("error executing template: %w", err)

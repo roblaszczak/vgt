@@ -51,7 +51,7 @@ func generateCharts(pr ParseResult) []PlotlyChart {
 			slog.Debug("Test was paused", "startAfter", startAfter, "duration", duration, "test", tn)
 
 			ch.Add(
-				fmt.Sprintf("%s pause (%s)", packageNameFull, duration.Round(time.Millisecond).String()),
+				fmt.Sprintf("%s PAUSE (%s)", packageNameFull, duration.Round(time.Millisecond).String()),
 				y,
 				startAfter,
 				duration,
@@ -66,7 +66,7 @@ func generateCharts(pr ParseResult) []PlotlyChart {
 			slog.Debug("Test was executed", "startAfter", startAfter, "duration", duration, "test", tn)
 
 			ch.Add(
-				fmt.Sprintf("%s run (%s)", packageNameFull, duration.Round(time.Millisecond)),
+				fmt.Sprintf("%s RUN (%s)", packageNameFull, duration.Round(time.Millisecond)),
 				y,
 				startAfter,
 				duration,
