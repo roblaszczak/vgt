@@ -102,6 +102,8 @@ type ParseResult struct {
 	End   time.Time
 
 	MaxDuration time.Duration
+
+	Failed bool
 }
 
 func (p ParseResult) TestNamesOrderedByStart() []TestName {
@@ -133,6 +135,8 @@ func Parse(scanner *bufio.Scanner) ParseResult {
 
 	maxDuration := time.Duration(0)
 
+	failed := false
+
 	i := 0
 
 	for scanner.Scan() {
@@ -155,6 +159,10 @@ func Parse(scanner *bufio.Scanner) ParseResult {
 		if out.IsZero() {
 			slog.Debug("zero value", "line", i)
 			continue
+		}
+
+		if out.Action == actionFail {
+			failed = true
 		}
 
 		if !out.Time.IsZero() {
@@ -268,5 +276,6 @@ func Parse(scanner *bufio.Scanner) ParseResult {
 		Start:       start,
 		End:         end,
 		MaxDuration: maxDuration,
+		Failed:      failed,
 	}
 }

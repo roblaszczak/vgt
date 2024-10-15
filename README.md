@@ -12,7 +12,7 @@ More information can be found in the [TODO] blog post.
 
 ## Installation
 
-```
+```bash
 go install -u github.com/roblaszczak/vgt
 ```
 
@@ -22,29 +22,38 @@ You can also run without installing by running `go run github.com/roblaszczak/vg
 
 For visualising test results, run `go test` with the `-json` flag and pipe the output to `vgt`.
 
-```
+```bash
 go test -json ./... | vgt
 ```
 
 or with `go run`:
 
-```
+```bash
 go test -json ./... | go run github.com/roblaszczak/vgt@latest
+```
+
+> [!WARNING]  
+> When you are piping go tests output to `vgt`, `vgt` will exit with 1 when tests failed.
+
+or just `vgt` with a custom flags after `--` to run tests and visualise them:
+
+```bash
+$ vgt -- ./... -count=1 -short
+10:26PM INF Running go test command="[go test -json ./... -count=1 -short]"
 ```
 
 After tests were executed, a browser window will open with the visualisation.
 
 If you want to preserve the output, you can pipe test logs to file and later pass it to `vgt`:
 
-```
+```bash
 go test -json ./... > test.json
 cat test.json | vgt
 ```
 
-
 ### Additional flags
 
-```
+```bash
 Usage of vgt:
   -debug
     	enable debug mode
@@ -75,6 +84,6 @@ it looks good.
 
 If you made a change and want to update golden files, you can run:
 
-```
+```bash
 go test . -update-golden
 ```
