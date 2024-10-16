@@ -1,14 +1,21 @@
 # vgt - Visualise Go Test
 
-<img align="right" width="300" src="docs/logo.svg">
-
 `vgt` is a tool for visualising Go test results in a browser.
 
 It's helpful with understanding parallelism of tests and identifying slow tests.
-More information can be found in the [TODO] blog post.
+More information can be found in our [blog post about optimsing Go tests parallelism](https://threedots.tech/post/go-test-parallelism/).
 
-![Screenshot 1](docs/img1.png)
-![Screenshot 2](docs/img2.png)
+
+<table>
+    <tr style="border: none; text-align: center;">
+        <td style="border: none"><img src="docs/img1.png" alt="Screenshot 1" width="415"></td>
+        <td style="border: none"><img src="docs/img2.png" alt="Screenshot 2" width="415"></td>
+    </tr>
+    <tr style="border: none; text-align: center;">
+        <td style="border: none"><img src="docs/img3.png" alt="Screenshot 3" width="415"></td>
+        <td style="border: none"><img src="docs/logo.svg" width="215"></td>
+    </tr>
+</table>
 
 ## Installation
 
