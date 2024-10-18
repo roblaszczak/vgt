@@ -25,7 +25,7 @@ More information can be found in our [blog post about optimsing Go tests paralle
 ## Installation
 
 ```bash
-go install -u github.com/roblaszczak/vgt
+go install github.com/roblaszczak/vgt@latest
 ```
 
 You can also run without installing by running `go run github.com/roblaszczak/vgt@latest`.
