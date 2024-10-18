@@ -9,7 +9,7 @@
 `vgt` is a tool for visualising Go test results in a browser.
 
 It's helpful with understanding parallelism of tests and identifying slow tests.
-More information can be found in our [blog post about optimsing Go tests parallelism](https://threedots.tech/post/go-test-parallelism/).
+More information can be found in our [blog post about optimising Go tests parallelism](https://threedots.tech/post/go-test-parallelism/).
 
 <table>
     <tr style="border: none; text-align: center;">
