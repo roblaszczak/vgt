@@ -11,6 +11,8 @@
 It's helpful with understanding parallelism of tests and identifying slow tests.
 More information can be found in our [blog post about optimising Go tests parallelism](https://threedots.tech/post/go-test-parallelism/).
 
+[![go-recipes](https://raw.githubusercontent.com/nikolaydubina/go-recipes/main/badge.svg?raw=true)](https://github.com/nikolaydubina/go-recipes)
+
 <table>
     <tr style="border: none; text-align: center;">
         <td style="border: none"><img src="docs/img3.png" alt="Screenshot 3" width="415"></td>
