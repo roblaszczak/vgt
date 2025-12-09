@@ -203,7 +203,7 @@ func Parse(scanner *bufio.Scanner) ParseResult {
 		case actionPass, actionFail, actionSkip:
 			testRuns.Update(tn, func(te TestExecution) TestExecution {
 				te.End = out.Time
-				te.Passed = out.Action == actionPass
+				te.Passed = out.Action != actionFail
 				return te
 			})
 		}
