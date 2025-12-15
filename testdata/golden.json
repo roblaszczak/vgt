@@ -1530,7 +1530,7 @@
       },
       "Start": "2024-09-18T21:02:37.137931+02:00",
       "End": "2024-09-18T21:02:37.137958+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestNoAck": {
       "Test": {
@@ -1548,7 +1548,7 @@
       },
       "Start": "2024-09-18T21:02:12.750446+02:00",
       "End": "2024-09-18T21:02:12.750476+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublishSubscribe": {
       "Test": {
@@ -1584,7 +1584,7 @@
       },
       "Start": "2024-09-18T21:02:12.750426+02:00",
       "End": "2024-09-18T21:02:12.750699+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestPublisherClose": {
       "Test": {
@@ -1620,7 +1620,7 @@
       },
       "Start": "2024-09-18T21:02:12.750339+02:00",
       "End": "2024-09-18T21:02:12.750366+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sns/TestPublishSubscribe/TestResendOnError": {
       "Test": {
@@ -1791,7 +1791,7 @@
       },
       "Start": "2024-09-18T21:02:12.985869+02:00",
       "End": "2024-09-18T21:02:12.986533+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestContinueAfterErrors": {
       "Test": {
@@ -1863,7 +1863,7 @@
       },
       "Start": "2024-09-18T21:02:15.681499+02:00",
       "End": "2024-09-18T21:02:15.681521+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestNoAck": {
       "Test": {
@@ -1881,7 +1881,7 @@
       },
       "Start": "2024-09-18T21:02:15.681543+02:00",
       "End": "2024-09-18T21:02:15.681556+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublishSubscribe": {
       "Test": {
@@ -1917,7 +1917,7 @@
       },
       "Start": "2024-09-18T21:02:12.985658+02:00",
       "End": "2024-09-18T21:02:12.985856+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestPublisherClose": {
       "Test": {
@@ -1953,7 +1953,7 @@
       },
       "Start": "2024-09-18T21:02:12.985578+02:00",
       "End": "2024-09-18T21:02:12.985598+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub/TestResendOnError": {
       "Test": {
@@ -2025,7 +2025,7 @@
       },
       "Start": "2024-09-18T21:11:46.727417+02:00",
       "End": "2024-09-18T21:11:46.727507+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestMessageCtx": {
       "Test": {
@@ -2061,7 +2061,7 @@
       },
       "Start": "2024-09-18T21:11:46.727533+02:00",
       "End": "2024-09-18T21:11:46.727564+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestPublishSubscribe": {
       "Test": {
@@ -2097,7 +2097,7 @@
       },
       "Start": "2024-09-18T21:05:19.337284+02:00",
       "End": "2024-09-18T21:05:19.3373+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/0/TestSubscribeCtx": {
       "Test": {
@@ -2151,7 +2151,7 @@
       },
       "Start": "2024-09-18T21:05:19.337484+02:00",
       "End": "2024-09-18T21:05:19.337645+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestConcurrentClose": {
       "Test": {
@@ -2223,7 +2223,7 @@
       },
       "Start": "2024-09-18T21:10:31.980703+02:00",
       "End": "2024-09-18T21:10:31.980793+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestContinueAfterErrors": {
       "Test": {
@@ -2277,7 +2277,7 @@
       },
       "Start": "2024-09-18T21:10:31.980861+02:00",
       "End": "2024-09-18T21:10:31.980936+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestNoAck": {
       "Test": {
@@ -2295,7 +2295,7 @@
       },
       "Start": "2024-09-18T21:10:02.750628+02:00",
       "End": "2024-09-18T21:10:02.750665+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestPublishSubscribe": {
       "Test": {
@@ -2331,7 +2331,7 @@
       },
       "Start": "2024-09-18T21:10:02.750521+02:00",
       "End": "2024-09-18T21:10:02.750557+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestReconnect": {
       "Test": {
@@ -2349,7 +2349,7 @@
       },
       "Start": "2024-09-18T21:05:19.336163+02:00",
       "End": "2024-09-18T21:05:19.336231+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/2/TestResendOnError": {
       "Test": {
@@ -2475,7 +2475,7 @@
       },
       "Start": "2024-09-18T21:08:08.837046+02:00",
       "End": "2024-09-18T21:08:08.837157+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestContinueAfterErrors": {
       "Test": {
@@ -2547,7 +2547,7 @@
       },
       "Start": "2024-09-18T21:08:08.837312+02:00",
       "End": "2024-09-18T21:08:08.837375+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestNoAck": {
       "Test": {
@@ -2565,7 +2565,7 @@
       },
       "Start": "2024-09-18T21:08:14.094995+02:00",
       "End": "2024-09-18T21:08:14.095173+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestPublishSubscribe": {
       "Test": {
@@ -2601,7 +2601,7 @@
       },
       "Start": "2024-09-18T21:08:08.836891+02:00",
       "End": "2024-09-18T21:08:08.836962+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestReconnect": {
       "Test": {
@@ -2619,7 +2619,7 @@
       },
       "Start": "2024-09-18T21:05:19.336317+02:00",
       "End": "2024-09-18T21:05:19.336377+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/3/TestResendOnError": {
       "Test": {
@@ -2691,7 +2691,7 @@
       },
       "Start": "2024-09-18T21:05:19.3379+02:00",
       "End": "2024-09-18T21:05:19.337917+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestConcurrentClose": {
       "Test": {
@@ -2763,7 +2763,7 @@
       },
       "Start": "2024-09-18T21:05:19.337476+02:00",
       "End": "2024-09-18T21:05:19.338114+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestContinueAfterErrors": {
       "Test": {
@@ -2835,7 +2835,7 @@
       },
       "Start": "2024-09-18T21:05:19.337708+02:00",
       "End": "2024-09-18T21:05:19.337838+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestNoAck": {
       "Test": {
@@ -2853,7 +2853,7 @@
       },
       "Start": "2024-09-18T21:05:20.304868+02:00",
       "End": "2024-09-18T21:05:20.304929+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestPublishSubscribe": {
       "Test": {
@@ -2889,7 +2889,7 @@
       },
       "Start": "2024-09-18T21:05:19.337072+02:00",
       "End": "2024-09-18T21:05:19.337681+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestReconnect": {
       "Test": {
@@ -2907,7 +2907,7 @@
       },
       "Start": "2024-09-18T21:05:19.334993+02:00",
       "End": "2024-09-18T21:05:19.335062+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/5/TestResendOnError": {
       "Test": {
@@ -3033,7 +3033,7 @@
       },
       "Start": "2024-09-18T21:11:37.913221+02:00",
       "End": "2024-09-18T21:11:37.913289+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestContinueAfterErrors": {
       "Test": {
@@ -3087,7 +3087,7 @@
       },
       "Start": "2024-09-18T21:11:37.91576+02:00",
       "End": "2024-09-18T21:11:37.91587+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestNoAck": {
       "Test": {
@@ -3105,7 +3105,7 @@
       },
       "Start": "2024-09-18T21:11:06.893297+02:00",
       "End": "2024-09-18T21:11:06.893462+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestPublishSubscribe": {
       "Test": {
@@ -3141,7 +3141,7 @@
       },
       "Start": "2024-09-18T21:10:49.106007+02:00",
       "End": "2024-09-18T21:10:49.106355+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestReconnect": {
       "Test": {
@@ -3159,7 +3159,7 @@
       },
       "Start": "2024-09-18T21:05:19.337122+02:00",
       "End": "2024-09-18T21:05:19.337255+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/6/TestResendOnError": {
       "Test": {
@@ -3285,7 +3285,7 @@
       },
       "Start": "2024-09-18T21:06:57.329+02:00",
       "End": "2024-09-18T21:06:57.329079+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestContinueAfterErrors": {
       "Test": {
@@ -3357,7 +3357,7 @@
       },
       "Start": "2024-09-18T21:06:57.329158+02:00",
       "End": "2024-09-18T21:06:57.329239+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestNoAck": {
       "Test": {
@@ -3375,7 +3375,7 @@
       },
       "Start": "2024-09-18T21:06:17.812153+02:00",
       "End": "2024-09-18T21:06:17.812172+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestPublishSubscribe": {
       "Test": {
@@ -3411,7 +3411,7 @@
       },
       "Start": "2024-09-18T21:06:17.812073+02:00",
       "End": "2024-09-18T21:06:17.812101+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestReconnect": {
       "Test": {
@@ -3429,7 +3429,7 @@
       },
       "Start": "2024-09-18T21:05:19.33544+02:00",
       "End": "2024-09-18T21:05:19.335535+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/7/TestResendOnError": {
       "Test": {
@@ -3555,7 +3555,7 @@
       },
       "Start": "2024-09-18T21:07:05.474762+02:00",
       "End": "2024-09-18T21:07:05.474917+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestContinueAfterErrors": {
       "Test": {
@@ -3627,7 +3627,7 @@
       },
       "Start": "2024-09-18T21:07:05.475004+02:00",
       "End": "2024-09-18T21:07:05.475099+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestNoAck": {
       "Test": {
@@ -3645,7 +3645,7 @@
       },
       "Start": "2024-09-18T21:07:50.171818+02:00",
       "End": "2024-09-18T21:07:50.171843+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestPublishSubscribe": {
       "Test": {
@@ -3681,7 +3681,7 @@
       },
       "Start": "2024-09-18T21:07:14.661881+02:00",
       "End": "2024-09-18T21:07:14.661904+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestReconnect": {
       "Test": {
@@ -3699,7 +3699,7 @@
       },
       "Start": "2024-09-18T21:05:19.335571+02:00",
       "End": "2024-09-18T21:05:19.335587+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/8/TestResendOnError": {
       "Test": {
@@ -3825,7 +3825,7 @@
       },
       "Start": "2024-09-18T21:05:32.109122+02:00",
       "End": "2024-09-18T21:05:32.109139+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestContinueAfterErrors": {
       "Test": {
@@ -3897,7 +3897,7 @@
       },
       "Start": "2024-09-18T21:05:32.109064+02:00",
       "End": "2024-09-18T21:05:32.1091+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestNoAck": {
       "Test": {
@@ -3915,7 +3915,7 @@
       },
       "Start": "2024-09-18T21:05:46.410824+02:00",
       "End": "2024-09-18T21:05:46.410851+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestPublishSubscribe": {
       "Test": {
@@ -3951,7 +3951,7 @@
       },
       "Start": "2024-09-18T21:05:21.389422+02:00",
       "End": "2024-09-18T21:05:21.389506+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestReconnect": {
       "Test": {
@@ -3969,7 +3969,7 @@
       },
       "Start": "2024-09-18T21:05:19.333285+02:00",
       "End": "2024-09-18T21:05:19.334266+02:00",
-      "Passed": false
+      "Passed": true
     },
     "github.com/ThreeDotsLabs/watermill-amazonsqs/sqs/TestPubSub_stress/9/TestResendOnError": {
       "Test": {
